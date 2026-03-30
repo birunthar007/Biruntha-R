@@ -25,5 +25,5 @@
 
 
 ## 🌐 Connect with Me
-🔗 LinkedIn: https://linkedin.com/in/yourname  
-🔗 GitHub: https://github.com/yourusername
+🔗 LinkedIn: https://linkedin.com/in/biruntha-r
+🔗 GitHub: https://github.com/birunthar007
